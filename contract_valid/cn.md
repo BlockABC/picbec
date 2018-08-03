@@ -20,11 +20,12 @@
 #### 合约：gameworldcom
 合约地址：<https://eospark.com/MainNet/contract/gameworldcom>
 
+![Source_Code_Error](https://github.com/BlockABC/picbec/raw/master/contract_valid/Source_Code_Error.png)
 
 ## 上传源代码
 如果一个智能合约没有公开其源代码，用户可要求项目方到EOSpark上传源代码。如果项目方拒绝上传，则应该谨慎使用该合约。如果项目方上传错误的源代码，将不会得到EOSpark的验证。
 
-
+![Source_Code_Error](https://github.com/BlockABC/picbec/raw/master/contract_valid/Source_Code_Error.png)
 
 ## 合约异常告知
 
